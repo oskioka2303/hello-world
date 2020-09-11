@@ -1,6 +1,5 @@
 # hello-world
-Just another repository
 
-Tester eeeenda mer. 
+Skriver på greina, dd?
 
 Mvh Oskar
