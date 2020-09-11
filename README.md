@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
 
-Bare tester litt ass
+Tester eeeenda mer. 
 
 Mvh Oskar
